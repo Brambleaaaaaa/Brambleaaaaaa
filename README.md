@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/作品集-portfolio-2ea043?style=for-the-badge)](https://github.com/Brambleaaaaaa/portfolio)
 [![Vibecoding](https://img.shields.io/badge/Vibe_Coding-vibecoding-8957e5?style=for-the-badge)](https://github.com/Brambleaaaaaa/vibecoding)
-[![AI Manju](https://img.shields.io/badge/AI_漫剧-ai--manju-d29922?style=for-the-badge)](https://github.com/Brambleaaaaaa/ai-manju)
+[![AI Manju](https://img.shields.io/badge/AI_%E6%BC%AB%E5%89%A7-ai--manju-d29922?style=for-the-badge)](https://github.com/Brambleaaaaaa/ai-manju)
 
 </div>
 
