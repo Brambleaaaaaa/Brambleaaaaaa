@@ -72,7 +72,8 @@
 <br>
 <b>世界终焉之时 · Endfaryth</b><br>
 剧情向视觉小说 / JRPG · Steam Demo<br>
-<sub>灰烬污染天空，暴雪吞噬世界。你从黑暗中醒来，寻找自己是谁。</sub>
+<sub>灰烬污染天空，暴雪吞噬世界。你从黑暗中醒来，寻找自己是谁。</sub><br>
+<a href="https://github.com/Brambleaaaaaa/portfolio/releases/tag/endfaryth-pv">宣传 PV（2'33"）</a>
 </td>
 <td width="50%">
 <a href="https://tap.cn/lrdmk1ZrY">
