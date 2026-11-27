@@ -7,10 +7,26 @@
 游戏 · 小说 · 剧本 · 影像 · 策划
 
 [![Portfolio](https://img.shields.io/badge/作品集-portfolio-2ea043?style=for-the-badge)](https://github.com/Brambleaaaaaa/portfolio)
+[![Resume](https://img.shields.io/badge/个人简历-resume-0969da?style=for-the-badge)](https://github.com/Brambleaaaaaa/portfolio/blob/main/resume/README.md)
 [![Vibecoding](https://img.shields.io/badge/Vibe_Coding-vibecoding-8957e5?style=for-the-badge)](https://github.com/Brambleaaaaaa/vibecoding)
 [![AI Manju](https://img.shields.io/badge/AI_%E6%BC%AB%E5%89%A7-ai--manju-d29922?style=for-the-badge)](https://github.com/Brambleaaaaaa/ai-manju)
 
 </div>
+
+<div align="center">
+
+<a href="https://github.com/Brambleaaaaaa/portfolio">
+  <img src="./assets/hero-terminal.svg" width="100%" alt="bramble@utoecho: ~/portfolio — 点击进入作品集">
+</a>
+
+<sub>点击上方终端，进入作品集</sub>
+
+</div>
+
+> [!NOTE]
+> **个人便签**
+>
+> 个人进步是解决一切问题的最优解。
 
 ---
 
@@ -21,8 +37,21 @@
 - 游戏：Ren'Py / Unity，叙事、玩法原型与 Game Jam
 - Vibe Coding：纯静态前端、离线优先、AI 接口集成
 - AI 漫剧：ComfyUI + Krea2 + Seedance，角色一致性与镜头一致性管线
+- 写作：短篇、同人、剧本与叙事诗，番茄小说签约作者
 
 正在做：《世界终焉之时》——已上线 demo 的国产 galgame。
+
+## 个人简历
+
+游戏策划 / AI 漫剧制作 / 文职类 · 期望城市：上海
+
+- 四次 Game Jam 完整项目开发经验，负责策划全流程并担任团队协调者
+- 作为制作人主导 Galgame Demo 上线 Steam
+- 精通 AI 漫剧全流程：ComfyUI + Krea2 + Blender + LibTV
+- 独立开发多语言学习软件，接入 AI API
+- 英语四级已过，法语 A1 在读，具备中医推拿技能
+
+→ [查看完整个人简历](https://github.com/Brambleaaaaaa/portfolio/blob/main/resume/README.md)
 
 ## 三个入口
 
@@ -54,9 +83,10 @@
 | 分类 | 内容 |
 |---|---|
 | 独立游戏 | 世界终焉之时 Endfaryth / 罪船 / 已离开工位 / Correct Error / 通胀螺旋 / 货币牌 / 云汐 |
-| 小说 | 短篇、中篇练笔、歌词 |
+| 小说 | 短篇、中篇练笔、歌词、同人与练习稿、叙事诗 |
 | 剧本 | 游戏剧本、跑团剧本 |
 | 影视 | AI 漫剧管线、游戏影像、剪辑 |
+| 音乐 | 约稿配乐、原创歌曲、个人曲目 |
 | 策划案 | 云汐完整策划、他曾执意如此、罪船 |
 
 → [进入 portfolio 仓库](https://github.com/Brambleaaaaaa/portfolio)
@@ -101,6 +131,23 @@
 </tr>
 </table>
 
+## 音乐
+
+个人项目与日常练习曲目。点击曲名可在浏览器中直接试听。
+
+| # | 曲目 | 时长 | 试听 |
+|---|---|---|---|
+| 01 | Epiphany（立体声版本） | 1:21 | [播放](https://github.com/Brambleaaaaaa/portfolio/releases/download/music-v2/01_epiphany.mp3) |
+| 02 | Evo | 2:02 | [播放](https://github.com/Brambleaaaaaa/portfolio/releases/download/music-v2/02_evo.mp3) |
+| 03 | Lion | 1:25 | [播放](https://github.com/Brambleaaaaaa/portfolio/releases/download/music-v2/03_lion.mp3) |
+| 04 | ørken | 2:02 | [播放](https://github.com/Brambleaaaaaa/portfolio/releases/download/music-v2/04_orken.mp3) |
+| 05 | Rime | 3:26 | [播放](https://github.com/Brambleaaaaaa/portfolio/releases/download/music-v2/05_rime.mp3) |
+| 06 | Voyage | 1:36 | [播放](https://github.com/Brambleaaaaaa/portfolio/releases/download/music-v2/06_voyage.mp3) |
+| 07 | 淬青 | 0:57 | [播放](https://github.com/Brambleaaaaaa/portfolio/releases/download/music-v2/07_cuiqing.mp3) |
+| 08 | 旌途 | 0:41 | [播放](https://github.com/Brambleaaaaaa/portfolio/releases/download/music-v2/08_jingtu.mp3) |
+
+→ [全部曲目与约稿配乐](https://github.com/Brambleaaaaaa/portfolio/tree/main/music)
+
 ## 社媒
 
 | 平台 | 账号 | 链接 |
@@ -122,3 +169,7 @@
 **把想法做成能玩、能看、能上线的东西。**
 
 </div>
+
+<p align="center"><img src="./assets/xmas/dc_penguin.webp" width="92" alt="">&nbsp;&nbsp;<img src="./assets/xmas/dc_eva.webp" width="58" alt=""></p>
+
+<p align="center"><img src="./assets/xmas/footer.svg" width="100%" alt="Merry Christmas"></p>
